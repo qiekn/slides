@@ -6,7 +6,7 @@ Make sure you already installed git and node.js
 
 ```bash
 mkdir slides && cd slides
-git clone https://github.com/qiekn/slides.git
+git clone https://github.com/qiekn/slides.git .
 
 # If you haven't installed pnpm
 npm install -g pnpm
