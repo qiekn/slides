@@ -18,4 +18,4 @@ pnpm start
 
 ## Develop
 
-See: [dev branch](https://github.com/qiekn/slides/tree/dev)
+See: [main branch](https://github.com/qiekn/slides/tree/main)
